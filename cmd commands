@@ -1,0 +1,101 @@
+Command promt commands
+
+
+#######important Commands#######
+
+
+cd -> used to change directory -> cd filepath
+
+dir -> displays files in current folder -> dir
+
+
+cls  -> clear screen -> cls
+
+date -> shows current date and  allows to edit  -> date
+
+time -> shows current time and allows to edit  -> time
+
+
+tasklist -> displays all running tasks -> tasklist
+
+ver -> displays OS version -> ver
+
+getmac -> displays mac address -> getmac
+
+ipconfig -> displays ip address -> ipconfig
+
+title -> used to change title of cmd -> title yourtitle
+
+ping -> ping a specific url or ip to find its response -> ping ip/url
+
+vol ->  show volume description and serial numbers of the HDDs  -> vol
+
+##########For Python ###############
+
+note: only works when the environment varibale is set on your pc
+
+
+python -> brings up python shell -> python
+
+py -> short notation of python brings up python shell -> py
+
+>>>> executing python program <<<<<
+
+->use cd to change your working directory 
+after changing the directory 
+
+->use command 
+
+->python program file name.py 
+
+OR
+
+->py program file name.py
+
+note: file extension is must for execution of program
+
+
+##########For Java ###############
+
+Note: only works when the environment varible is set on your pc
+
+Java -> shows java usable commands -> java
+
+>>>> executing java program <<<<<
+
+-> use cd to change your working directory
+after changing the directory 
+
+-> use command
+
+-> java program file name.java
+
+
+
+############Checking Versions###############
+
+
+.....In Python......
+
+> python --version
+OR
+>py --version
+
+
+
+
+.....In Java........
+
+>java --version 
+
+
+
+
+
+************BONUS********************
+
+
+exit -> used to exit the command promt(CMD) -> exit
+
+
+
